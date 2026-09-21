@@ -11,6 +11,11 @@
     "fix": "pnpm run lint:fix && pnpm run fmt",
     "test": "vitest run"
   },
+  "dependencies": {
+    "@ai-sdk/groq": "4.0.46",
+    "@ai-sdk/tui": "1.0.108",
+    "ai": "7.0.107"
+  },
   "devDependencies": {
     "@types/node": "26.6.2",
     "oxfmt": "0.68.0",
