@@ -14,7 +14,8 @@
   "dependencies": {
     "@ai-sdk/groq": "4.0.46",
     "@ai-sdk/tui": "1.0.108",
-    "ai": "7.0.107"
+    "ai": "7.0.107",
+    "zod": "4.6.5"
   },
   "devDependencies": {
     "@types/node": "26.6.2",
