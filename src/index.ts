@@ -10,4 +10,5 @@ const agent = new ToolLoopAgent({
 await runAgentTUI({
   title: "Protostar",
   agent,
+  reasoning: "full",
 });
